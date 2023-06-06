@@ -14,7 +14,7 @@ public:
 };
 int main()
 {
-    int a[3][3],turn=1,flagr1=0,flagr2=0,flagr3=0,flagc1=0,flagc2=0,flagc3=0,dleft=0,dright=0,game=0,game1=0,p,q;
+    int a[10][20],turn=1,flagr1=0,flagr2=0,flagr3=0,flagc1=0,flagc2=0,flagc3=0,dleft=0,dright=0,game=0,game1=0,p,q;
     int flagrr1=0,flagrr2=0,flagrr3=0,flagcc1=0,flagcc2=0,flagcc3=0,ddleft=0,ddright=0;
     tictactoe ob1,ob2;
     int i,j,choice;
